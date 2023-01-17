@@ -1,0 +1,31 @@
+.countries-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  border-bottom: 1px solid #334155;
+  padding: 15px 30px;
+}
+
+.country-name {
+  color: #cbd5e1;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.visited {
+  color: #94a3b8;
+  padding: 5px 10px;
+  font-size: 16px;
+}
+
+.visit-btn {
+  background-color: #3b82f6;
+  padding: 5px 20px;
+  font-size: 16px;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}

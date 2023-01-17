@@ -1,0 +1,33 @@
+.country {
+  background-color: #1f1f2f;
+  width: 283px;
+  background-color: transparent;
+  padding: 0px 15px 15px 0px;
+}
+
+.country-img {
+  width: 100%;
+  height: 150px;
+}
+
+.country-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+.name {
+  color: #cbd5e1;
+  font-size: 16px;
+}
+
+.remove-btn {
+  background-color: transparent;
+  color: #cbd5e1;
+  border: 1px solid #cbd5e1;
+  padding: 5px;
+  border-radius: 3px;
+  cursor: pointer;
+  outline: none;
+}
